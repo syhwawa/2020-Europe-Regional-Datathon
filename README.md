@@ -1,2 +1,2 @@
 # 2020-Europe-Regional-Datathon
-Submission to the Citadel Datathon held by Correlation One, 19 - 25 October 2020
+Team 23 Submission to the Citadel Datathon held by Correlation One, 19 - 25 October 2020
